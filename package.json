@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node" "16.x"
+  },
   "dependencies": {
     "@tsmx/human-readable": "^1.0.7",
     "autoprefixer": "^10.4.0",
